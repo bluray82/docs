@@ -26,3 +26,5 @@ children:
 shortTitle: Verify commit signatures
 ---
 
+- name: Setup Java JDK
+  uses: actions/setup-java@v2.3.1
